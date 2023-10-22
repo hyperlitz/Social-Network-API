@@ -21,7 +21,8 @@
 
   ## Demo
   [Click Here to View Walk-Through Video 1](https://drive.google.com/file/d/1iDlWj2mdwvjE4nWr9kWw3W8eBBImRF-u/view?usp=sharing)
-   [Click Here to View Walk-Through Video 2](https://drive.google.com/file/d/1CtQTDReC-JPxYBDhj1frPn5XBLDfcAbX/view?usp=sharing)
+
+  [Click Here to View Walk-Through Video 2](https://drive.google.com/file/d/1CtQTDReC-JPxYBDhj1frPn5XBLDfcAbX/view?usp=sharing)
 
   ## Installation
   To install this application, clone down from repository.
