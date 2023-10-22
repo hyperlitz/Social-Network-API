@@ -29,7 +29,7 @@
   After installation is completed, please open an integrated terminal, and use command 'npm i' to install any/all dependencies, then use command 'npm start' to begin.
 
   ## Screenshot
-  ![screenshot](./images.image1.jpg)
+  ![screenshot](./images/image1.jpg)
   
   ## Test
   No tests currently available. If users wish to test the program, they may use it as intended and give feedback.
