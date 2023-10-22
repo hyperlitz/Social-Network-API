@@ -20,7 +20,7 @@
   Assignment 18 NoSQL: Challenge Social Network API
 
   ## Demo
-  [Click Here to View Walk-Through Video]()
+  [Click Here to View Walk-Through Video](https://drive.google.com/drive/folders/1Gx_0q6pZBSNgepP_EHDrE8gFNzCuq3_j?usp=sharing)
 
   ## Installation
   To install this application, clone down from repository.
