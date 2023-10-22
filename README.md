@@ -30,9 +30,17 @@
 
   ## Screenshot
   ![screenshot](./images/image1.jpg)
+
+  ## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
   
   ## Test
   No tests currently available. If users wish to test the program, they may use it as intended and give feedback.
+
+  ## Questions
+
+If you have any questions or need further assistance with this project, please don't hesitate to reach out to the project owner:
 
   ## GitHub
   [Lito Banano](https://github.com/hyperlitz)
